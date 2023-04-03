@@ -11,7 +11,7 @@ Here is the tentative list of papers that I would be using in the literature sur
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://paperswithcode.com/paper/bert-pre-training-of-deep-bidirectional)
 - [Open Domain Context-Based Targeted Sentiment Analysis System](https://ieeexplore.ieee.org/document/8747187)
 ### 2010-14:
-- [Content vs. context for sentiment analysis: a comparative analysis over microblogs](https://dl.acm.org/doi/abs/10.1145/2309996.2310028)
+- [Sentiment Analysis on Twitter](https://www.researchgate.net/publication/304579281_Sentiment_Analysis_on_Twitter)
 - [VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text](http://eegilbert.org/papers/icwsm14.vader.hutto.pdf)
 - [Aspect Based Sentiment Analysis of Movie Reviews: Finding the Polarity Directing Aspects](https://ieeexplore.ieee.org/document/7079348)
 ### pre-2010:
