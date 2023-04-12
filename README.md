@@ -9,7 +9,7 @@ Here is the tentative list of papers that I would be using in the literature sur
 ### 2015-19:
 - [Sentiment analysis method based on context view](https://ieeexplore.ieee.org/document/7603411)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://paperswithcode.com/paper/bert-pre-training-of-deep-bidirectional)
-- [Open Domain Context-Based Targeted Sentiment Analysis System](https://ieeexplore.ieee.org/document/8747187)
+- [Improving Language Understanding by Generative Pre-Training](https://paperswithcode.com/paper/improving-language-understanding-by)
 ### 2010-14:
 - [Sentiment Analysis on Twitter](https://www.researchgate.net/publication/304579281_Sentiment_Analysis_on_Twitter)
 - [Extracting and Grounding Contextualized Sentiment Lexicons](https://ieeexplore.ieee.org/document/6547969)
