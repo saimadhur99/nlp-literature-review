@@ -1,6 +1,6 @@
 # Literature Survey Review on "Context-Based Sentiment Analysis"
 
-Here is the tentative list of papers that I would be using in the literature survey review on Context Based Sentiment Analysis:
+Here is the list of papers that I used in the literature survey review on Context Based Sentiment Analysis:
 
 ### pre-2010:
 - [An analytical approach to assess sentiment of text](https://ieeexplore.ieee.org/document/4579359)(2007)
@@ -16,5 +16,5 @@ Here is the tentative list of papers that I would be using in the literature sur
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://paperswithcode.com/paper/bert-pre-training-of-deep-bidirectional)(2019)
 ### 2020-23:
 - [A New Sentiment Analysis Model for Mixed Language using Contextual Lexicon](https://ieeexplore.ieee.org/document/9358286)(2020)
-- [Context-based sentiment analysis on customer reviews using machine learning linear models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8725657/)(2020)
-- [Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis](https://paperswithcode.com/paper/context-guided-bert-for-targeted-aspect-based)(2021)
+- [Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis](https://paperswithcode.com/paper/context-guided-bert-for-targeted-aspect-based)(2020)
+- [Context-based sentiment analysis on customer reviews using machine learning linear models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8725657/)(2021)
